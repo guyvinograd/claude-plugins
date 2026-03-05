@@ -28,3 +28,8 @@ Then install any plugin with:
 | Plugin | Description |
 |--------|-------------|
 | [say-plugin](./plugins/say-plugin) | Speak text aloud via Windows TTS |
+
+## Notes
+
+- Plugins use `"strict": false`, meaning Claude uses judgment about when to invoke a skill rather than requiring an exact trigger phrase.
+

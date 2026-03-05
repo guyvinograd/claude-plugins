@@ -18,5 +18,5 @@ Just tell Claude to "say" something:
 ## Installation
 
 ```
-/plugin install say-plugin@<your-github-username>
+/plugin install say-plugin@guyvinograd
 ```
