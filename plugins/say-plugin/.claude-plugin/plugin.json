@@ -1,0 +1,7 @@
+{
+  "name": "say-plugin",
+  "description": "Text-to-speech via Windows built-in TTS. Say something aloud through your speakers using the 'say' command.",
+  "author": {
+    "name": "guyvinograd"
+  }
+}
