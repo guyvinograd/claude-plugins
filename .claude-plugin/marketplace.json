@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "guyvinograd",
+  "description": "Claude Code plugins by guyvinograd",
+  "owner": {
+    "name": "guyvinograd"
+  },
+  "plugins": [
+    {
+      "name": "say-plugin",
+      "description": "Speak text aloud via Windows built-in TTS. Use when the user says 'say <something>'.",
+      "version": "1.0.0",
+      "author": {
+        "name": "guyvinograd"
+      },
+      "source": "./plugins/say-plugin",
+      "category": "productivity",
+      "strict": false
+    }
+  ]
+}
